@@ -1,27 +1,17 @@
-# automating the network deployment
-site info
+# scaling the network infrastructure
 
 `code`
 
-## Table of contents
-* [General info](#general-info)
-* [Technologies](#technologies)
-* [Setup](#setup)
+## topics
+* [a network engineering pipeline](#a-network-engineering-pipeline)
+* [site reliability engineering the network backbone](#site-reliability-engineering-the-network-backbone)
 
-## General info
+
+## a network engineering pipeline
 This project is simple Lorem ipsum dolor generator.
-	
-## Technologies
+` code here `	
+## site reliability engineering the network backbone
 Project is created with:
 * Lorem version: 12.3
 * Ipsum version: 2.33
-* Ament library version: 999
-	
-## Setup
-To run this project, install it locally using npm:
 
-```
-$ cd ../lorem
-$ npm install
-$ npm start
-```
