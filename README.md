@@ -9,8 +9,9 @@
 
 
 ## a network engineering pipeline
-This project is simple Lorem ipsum dolor generator.
-` code here `	
+standardization and automation
+verify base config across network
+
 
 ## site reliability engineering the network backbone
 use software and automation to solve network problems
