@@ -25,6 +25,21 @@ if config is not standard, if new routers are not added to monitoring systems, i
 
 ## constainerlab modeling with cumulux vx
 
+macos
+
+`
+CLAB_WORKDIR=~/clab
+
+docker run --rm -it --privileged \
+    --network host \
+    -v /var/run/docker.sock:/var/run/docker.sock \
+    -v /run/netns:/run/netns \
+    --pid="host" \
+    -w $CLAB_WORKDIR \
+    -v $CLAB_WORKDIR:$CLAB_WORKDIR \
+    ghcr.io/srl-labs/clab bash
+`
+
 ```mermaid
 graph TD;
     A-->B;
