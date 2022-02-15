@@ -5,7 +5,7 @@
 ## topics
 * [a network engineering pipeline](#a-network-engineering-pipeline)
 * [site reliability engineering the network backbone](#site-reliability-engineering-the-network-backbone)
-* [capacity planning mpls segment routed networks using R programming](#capacity-planning-mpls-segment-routed-networks-using-R-programming)
+* [containerlab modeling with cumulux vx](#containerlab-modeling-with-cumulus-vx)
 
 
 ## a network engineering pipeline
@@ -23,7 +23,7 @@ use software and automation to solve network problems
 
 if config is not standard, if new routers are not added to monitoring systems, if the information about the network is not accurate; reliablity will decrease...it will be a "network problem". 
 
-## capacity planning mpls segment routed networks using R programming
+## constainerlab modeling with cumulux vx
 
 ```mermaid
 graph TD;
