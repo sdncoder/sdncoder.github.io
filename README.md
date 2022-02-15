@@ -39,6 +39,11 @@ docker run --rm -it --privileged \
     -v $CLAB_WORKDIR:$CLAB_WORKDIR \
     ghcr.io/srl-labs/clab bash
 ```
+getting the Cumulux VX docker:
+https://github.com/networkop/cx/
+
+
+
 
 ```mermaid
 graph TD;
