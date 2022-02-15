@@ -26,6 +26,9 @@ if config is not standard, if new routers are not added to monitoring systems, i
 ## capacity planning mpls segment routed networks using R programming
 
 ```mermaid
-flowchard TD
-A[deploy] -->B{ok};
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
 ```
