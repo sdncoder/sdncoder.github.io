@@ -42,6 +42,9 @@ docker run --rm -it --privileged \
 getting the Cumulux VX docker:
 https://github.com/networkop/cx/
 
+pull the latest vx docker:
+`docker run -d --name cumulus --privileged networkop/cx:latest`
+
 
 
 
