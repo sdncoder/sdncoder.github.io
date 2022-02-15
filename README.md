@@ -52,3 +52,4 @@ commit
 merge newbranch
 ```
 
+https://mermaid-js.github.io/mermaid/#/
