@@ -27,7 +27,7 @@ if config is not standard, if new routers are not added to monitoring systems, i
 
 macos
 
-`
+```
 CLAB_WORKDIR=~/clab
 
 docker run --rm -it --privileged \
@@ -38,7 +38,7 @@ docker run --rm -it --privileged \
     -w $CLAB_WORKDIR \
     -v $CLAB_WORKDIR:$CLAB_WORKDIR \
     ghcr.io/srl-labs/clab bash
-`
+```
 
 ```mermaid
 graph TD;
