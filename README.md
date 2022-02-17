@@ -1,4 +1,4 @@
-## re-thinking building and managing large scale production network infrastructure
+## to err is human; to propagate errors massively as scale requires automation
 
 `code`
 
