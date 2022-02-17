@@ -3,7 +3,7 @@
 `code`
 
 ## topics
-* [a network engineering pipeline](#a-network-engineering-pipeline)
+* [automating the network deployment with Ansible](#automating-the-network-deployment-with-Ansible)
 * [site reliability engineering the network backbone](#site-reliability-engineering-the-network-backbone)
 * [containerlab modeling with cumulux vx](#containerlab-modeling-with-cumulus-vx)
 
