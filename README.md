@@ -3,12 +3,12 @@
 `code`
 
 ## topics
-* [automating the network deployment with Ansible](#automating-the-network-deployment-with-Ansible)
+* [Automating the network deployment with Ansible](#automating-the-network-deployment-with-Ansible)
 * [site reliability engineering the network backbone](#site-reliability-engineering-the-network-backbone)
 * [containerlab modeling with cumulux vx](#containerlab-modeling-with-cumulus-vx)
 
 
-## a network engineering pipeline
+## Automating the network deployment with Ansible
 standardization and automation
 verify base config across network
 CICD for the network infrastrucutre has limitations
