@@ -20,6 +20,8 @@ Testing your network config againt BatFish equates to is this config standardize
 
 ## Pre-deployment configuration validation with BatFish
 #### Cumulus VX
+https://gitlab.com/permitanyany/cldemo2
+
 3 files are used concantenated into a single file.
 ```
 /etc/network/interfaces
