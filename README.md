@@ -19,9 +19,39 @@ Testing your network config againt BatFish equates to is this config standardize
 
 
 ## Pre-deployment configuration validation with BatFish
-use software and automation to solve network problems
+#### Cumulus VX
+3 files are used concantenated into a single file.
+```
+/etc/network/interfaces
+/etc/cumulus/ports.conf
+/etc/frr/frr.comf
+```
+each device file goes into configs folder
 
-if config is not standard, if new routers are not added to monitoring systems, if the information about the network is not accurate; reliablity will decrease...it will be a "network problem". 
+template:
+```
+(
+  # hostname
+  echo $hostname
+
+  # Signal start of /etc/network/interfaces
+  echo "# This file describes the network interfaces"
+  cat /etc/network/interfaces
+  echo 
+
+  # Signal start of /etc/cumulus/ports.conf
+  echo "# ports.conf --"
+  cat /etc/cumulus/ports.conf
+  echo 
+
+  # Signal start of /etc/frr/frr.conf
+  echo "frr version"
+  cat /etc/frr/frr.conf
+  echo
+)
+```
+
+
 
 ## constainerlab modeling with cumulux vx
 
