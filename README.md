@@ -24,7 +24,6 @@ https://gitlab.com/permitanyany/cldemo2
 
 https://batfish.readthedocs.io/en/latest/formats.html#cisco
 
-https://github.com/networkop/cx/
 
 3 files are used concantenated into a single file.
 ```
