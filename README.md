@@ -24,7 +24,7 @@ Testing your network config againt BatFish equates to is this config standardize
 ```
 /etc/network/interfaces
 /etc/cumulus/ports.conf
-/etc/frr/frr.comf
+/etc/frr/frr.conf
 ```
 each device file goes into configs folder
 
