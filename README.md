@@ -24,6 +24,8 @@ https://gitlab.com/permitanyany/cldemo2
 
 https://batfish.readthedocs.io/en/latest/formats.html#cisco
 
+start container in docker:
+docker run -p 8888:8888 batfish/allinone
 
 3 files are used concantenated into a single file.
 ```
