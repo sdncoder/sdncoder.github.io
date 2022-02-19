@@ -83,6 +83,7 @@ pull the latest vx docker:
 `docker run -d --name cumulus --privileged networkop/cx:latest`
 
 
+https://www.lionbloggertech.com/how-to-setup-influxdb-telegraf-on-docker/
 
 
 ```mermaid
