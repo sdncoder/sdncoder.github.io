@@ -120,7 +120,7 @@ https://www.packetcoders.io/introduction-to-scrapli/
 Scrapli supports the parsing libraries Genie, TTP and TextFSM. 
 https://dteslya.engineer/network_automaiton_101/#scrapli
 
-####docker host NAT
+#### Docker host NAT
 https://blog.oddbit.com/post/2014-08-11-four-ways-to-connect-a-docker/
 
 
