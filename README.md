@@ -114,3 +114,9 @@ merge newbranch
 ```
 
 https://mermaid-js.github.io/mermaid/#/
+
+
+https://www.packetcoders.io/introduction-to-scrapli/
+Scrapli supports the parsing libraries Genie, TTP and TextFSM. 
+https://dteslya.engineer/network_automaiton_101/#scrapli
+
