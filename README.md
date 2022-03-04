@@ -4,7 +4,7 @@
 
 ## topics
 * [Automating the network deployment with Ansible](#automating-the-network-deployment-with-Ansible)
-* [Pre-deployment configuration validation with BatFish](#pre-deployment-configuration-validation-with-BatFish)
+* [Go](#go)
 * [containerlab modeling with cumulux vx](#containerlab-modeling-with-cumulus-vx)
 
 
@@ -18,14 +18,15 @@ CICD in the web space..the build truly is the same; just using a differenet DNS 
 Testing your network config againt BatFish equates to is this config standardized (ACL, etc); there are better ways to really do that ~ lab router
 
 
-## Pre-deployment configuration validation with BatFish
-#### Cumulus VX
-https://gitlab.com/permitanyany/cldemo2
+## Go
+install snap package manager
+`sudo apt install snapd`
 
-https://batfish.readthedocs.io/en/latest/formats.html#cisco
+install go
+`sudo snap install go --classic`
 
-start container in docker:
-`docker run -p 8888:8888 batfish/allinone`
+
+
 
 3 files are used concantenated into a single file.
 ```
