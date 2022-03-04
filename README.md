@@ -87,42 +87,6 @@ https://github.com/networkop/cx/
 
 #### other stuff
 
-pull the latest vx docker:
-`docker run -d --name cumulus --privileged networkop/cx:latest`
-
-
-https://www.lionbloggertech.com/how-to-setup-influxdb-telegraf-on-docker/
-
-
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
-
-```mermaid
-gitGraph:
-options
-{
-    "nodeSpacing": 150,
-    "nodeRadius": 10
-}
-end
-commit
-branch newbranch
-checkout newbranch
-commit
-commit
-checkout master
-commit
-commit
-merge newbranch
-```
-
-https://mermaid-js.github.io/mermaid/#/
-
 
 https://www.packetcoders.io/introduction-to-scrapli/
 Scrapli supports the parsing libraries Genie, TTP and TextFSM. 
