@@ -1,4 +1,4 @@
-## to err is human; to propagate errors massively as scale requires automation
+## network stuff
 
 `code`
 
@@ -62,8 +62,8 @@ template:
 
 ## constainerlab modeling with cumulux vx
 
-macos
 
+for macos:
 ```
 CLAB_WORKDIR=~/clab
 
@@ -78,6 +78,14 @@ docker run --rm -it --privileged \
 ```
 getting the Cumulux VX docker:
 https://github.com/networkop/cx/
+
+
+
+
+
+
+
+#### other stuff
 
 pull the latest vx docker:
 `docker run -d --name cumulus --privileged networkop/cx:latest`
