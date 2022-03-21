@@ -81,11 +81,6 @@ getting the Cumulux VX docker:
 https://github.com/networkop/cx/
 
 
-
-
-
-
-
 #### other stuff
 
 
@@ -95,5 +90,21 @@ https://dteslya.engineer/network_automaiton_101/#scrapli
 
 #### Docker host NAT
 https://blog.oddbit.com/post/2014-08-11-four-ways-to-connect-a-docker/
+
+#### zettel
+```
+init.vim
+  1 set number
+  2 syntax on
+  3 set textwidth=80
+  4 set ignorecase
+```
+
+```
+  1 echo 'zettel'
+  2 let g:zettelkasten ="/home/netadmin/notes/"
+  3 command! -nargs=1 NewZettel :execute ":e" zettelkasten . strftime("%m-%d-%Y"    ) . "-<args>.txt"
+  4 nnoremap <leader>nz :NewZettel
+```
 
 
