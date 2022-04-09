@@ -25,19 +25,6 @@ install snap package manager
 install go
 `sudo snap install go --classic`
 
-
-
-
-3 files are used concantenated into a single file.
-```
-/etc/network/interfaces
-/etc/cumulus/ports.conf
-/etc/frr/frr.conf
-```
-each device file goes into configs folder
-
-template:
-```
 (
   # hostname
   echo $hostname
