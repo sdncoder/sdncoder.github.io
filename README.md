@@ -3,7 +3,7 @@
 `code`
 
 ## framework
-* [Ansible configuration management](#ansible-configuration-management)
+* [Ansible configuration deployment](#ansible-configuration-management)
 * [Output text parsing](#output-text-parsing)
 * [QA with Robot Framework](#qa-with-robot-framework)
 
