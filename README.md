@@ -4,8 +4,8 @@
 
 ## the pieces
 * [Ansible configuration management](#ansible-configuration-management)
-* [Go](#go)
-* [containerlab modeling with cumulux vx](#containerlab-modeling-with-cumulus-vx)
+* [Output text parsing](#output-text-parsing)
+* [QA with Robot Framework](#qa-with-robot-framework)
 
 
 ## Automating the network deployment with Ansible
