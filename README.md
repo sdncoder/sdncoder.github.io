@@ -3,12 +3,12 @@
 
 
 ### the framework
-* [Ansible configuration deployment](#ansible-configuration-management)
-* [Text parsing deployment state](#output-text-parsing)
+* [Automate configuration deployment with Ansible](#Automate-configuration-deployment-with-ansible)
+* [Text parsing deployment state](#text-parsing-deployment-state)
 * [QA with Robot Framework](#qa-with-robot-framework)
 
 
-### Ansible configuration deployment
+### Automate configuration deployment with Ansible
 
 
 ### Text parsing deployment state
