@@ -1,8 +1,8 @@
-## a network deployment framework
+## A network deployment framework
 
 
 
-### the framework
+### The framework
 * [Automate configuration deployment with Ansible](#Automate-configuration-deployment-with-ansible)
 * [Text parsing deployment state](#text-parsing-deployment-state)
 * [QA with Robot Framework](#qa-with-robot-framework)
