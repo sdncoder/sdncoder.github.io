@@ -2,8 +2,8 @@
 
 `code`
 
-## topics
-* [Automating the network deployment with Ansible](#automating-the-network-deployment-with-Ansible)
+## the pieces
+* [Ansible configuration management](#ansible-configuration-management)
 * [Go](#go)
 * [containerlab modeling with cumulux vx](#containerlab-modeling-with-cumulus-vx)
 
