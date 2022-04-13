@@ -2,7 +2,7 @@
 
 `code`
 
-## the pieces
+## framework
 * [Ansible configuration management](#ansible-configuration-management)
 * [Output text parsing](#output-text-parsing)
 * [QA with Robot Framework](#qa-with-robot-framework)
