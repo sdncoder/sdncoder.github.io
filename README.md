@@ -1,4 +1,4 @@
-## a network automation framework
+## a network deployment framework
 
 `code`
 
