@@ -1,4 +1,4 @@
-## network stuff
+## a network automation framework
 
 `code`
 
