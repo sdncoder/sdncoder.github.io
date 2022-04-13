@@ -4,7 +4,7 @@
 
 ## framework
 * [Ansible configuration deployment](#ansible-configuration-management)
-* [Output text parsing](#output-text-parsing)
+* [Text parsing deployment state](#output-text-parsing)
 * [QA with Robot Framework](#qa-with-robot-framework)
 
 
