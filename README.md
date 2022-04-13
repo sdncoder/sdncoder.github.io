@@ -1,20 +1,20 @@
 ## a network deployment framework
 
-`code`
 
-## the framework
+
+### the framework
 * [Ansible configuration deployment](#ansible-configuration-management)
 * [Text parsing deployment state](#output-text-parsing)
 * [QA with Robot Framework](#qa-with-robot-framework)
 
 
-## Ansible configuration deployment
+### Ansible configuration deployment
 
 
-## Text parsing deployment state
+### Text parsing deployment state
 
 
-## QA with Robot Framework
+### QA with Robot Framework
 
 
 
