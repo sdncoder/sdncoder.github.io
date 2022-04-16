@@ -13,7 +13,10 @@ A set of tools used to deploy network infrastructure(s) at scale.
 
 
 ### Automate configuration deployment with Ansible
-ssh with vendor libraries  
+Ansible is the best (my opinion) open source multi-vendor tool for SSH based network device configuration.
+* _ssh front-end_ - execute playbooks using vendor libraries via SSH.
+* 
+* 
 
 
 
