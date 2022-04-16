@@ -1,7 +1,7 @@
 ## A network deployment framework
 
 A set of tools used to deploy network infrastructure(s) at scale.  
-**Value of a framework:**   
+**The framework should:**   
 * Allow engineers to focus on the design and configuration by providing low-level funcationaly.  
 * Provide team-based configuration management with revision control and review/approval capabilites.  
 * Manage pre-production testing and build state analysis.
