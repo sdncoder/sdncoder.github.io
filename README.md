@@ -1,9 +1,9 @@
 ## A network deployment framework
 
 A set of tools used to deploy network infrastructure(s) at scale.  
-The framework tools:     
-* allow engineers to focus on the design and configuration by providing low-level funcationaly (i.e., ssh with vendor libraries).  
-* provide team-based configuration management with revision control and review/approal capabilites.  
+*The framework tools:*     
+* allow engineers to focus on the design and configuration by providing low-level funcationaly.  
+* provide team-based configuration management with revision control and review/approval capabilites.  
 * 
 
 ### The framework
@@ -13,6 +13,8 @@ The framework tools:
 
 
 ### Automate configuration deployment with Ansible
+ssh with vendor libraries  
+
 
 
 ### Text parsing deployment state
