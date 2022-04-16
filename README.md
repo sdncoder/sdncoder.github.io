@@ -15,7 +15,7 @@ A set of tools used to deploy network infrastructure(s) at scale.
 ### Automate configuration deployment with Ansible
 Ansible is the best (my opinion) open source multi-vendor tool for network device configuration.
 * _SSH front-end_ - execute playbooks using vendor libraries via SSH.
-* _well known command structure_ - yaml files are built using known network device CLI structure.
+* _Well known command structure_ - YAML files are built using known network device CLI structure.
 * 
 
 
