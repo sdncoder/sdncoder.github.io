@@ -16,23 +16,19 @@ The Playbooks in this GitHub respository are examples of how to deploy both spec
 	
 ## BNE Ansible deployment
 Our Ansible playbooks will be used to pre-deploy backbone routers and well as change configurations on our backbone as scale (*vty acl standardization*).
-The Distribution Engineering DevOps team (Automation and Playout) uses a central Ansible server with AWX (*AWX is the open-sources version of RedHat Automation Platform*) with provides a HTTPS based GUI. 
+The Production Engineering DevOps team (Automation and Playout) uses a central Ansible server with AWX (*AWX is the open-sources version of RedHat Automation Platform*) with provides a HTTPS based GUI. 
 
-### BNE is not going to use the DevOps Ansible deployment, we have built our own.
+### Production Network Engineering is not going to use the DevOps Ansible deployment, we have built our own.
 
 Why:
 * The DevOps ansible has login information for all devices; added as they are needed in a playbook
 	* This is a massive inventory list that can be used by the users of the server
 * There is no containment mechanism to stop an accidental mass deployment
-	* The BNE Ansible server is build in AWS, its tied to a F5 FW rule 
-	* In addition to a specific inventory list in the Ansible hosts file; the F5 must also be configured with the IP of the destination routers
-	
-![picture alt](https://github.inbcu.com/bne-neteng/aws-lab-bne/blob/master/sandbox-to-lab.jpg "sandbox to lab")
-	
+	* The Production Network Engineering Ansible server is built in AWS, its tied to a NGFW rules to reach our lab and production
+	* In addition to a specific inventory list in the Ansible hosts file; the NGFW must also be configured with the IP of the destination routers
+		
 ## NextGen ASR biuld process
 The Ansible server on BNE sandbox has Ansible and Git installed.
-
-NBC has an enterprise build of GitHub.   GitHub is cloud based, GitLab is a local deployment.  We are using NBC's GitHub environment.
 
 #### What is Git?
 * Git is a distributed, open-source version control system (VCS) that enables you to store code, track revision history, merge code changes, and revert to earlier code version when needed.
