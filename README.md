@@ -1,5 +1,5 @@
 ## A network deployment framework
-**frame·work /ˈfrāmˌwərk/** - set of tools used to deploy network infrastructure(s) at scale.
+**Tools and engineering process to deploy network infrastructure(s) at scale.
 
 **Benefits:**   
 * Allow engineers to focus on the design and configuration by providing low-level funcationaly.  
