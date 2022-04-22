@@ -8,7 +8,7 @@ Tools and engineering process to deploy network infrastructure(s) at scale.
 
 ### The framework tools:  
 * [Automate configuration deployment with Ansible](#Automate-configuration-deployment-with-ansible)
-* [Text parsing deployment state](#text-parsing-deployment-state)
+* [Parsing deployment state](#parsing-deployment-state)
 * [QA with Robot Framework](#qa-with-robot-framework)
 
 
@@ -20,11 +20,14 @@ Ansible is the best (my opinion) open source multi-vendor tool for network devic
 
 
 
-### Text parsing deployment state
+### Parsing deployment state
 
 
 ### QA with Robot Framework
 
+
+### Engineering Process  
+The process is the product -
 
 
 
