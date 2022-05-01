@@ -9,4 +9,8 @@ MPLS "classic":
 * N^2 x K tunnels  N=nodes K=tunnels  
 * result is operational complexity with limited scale.  
 
-Link state convergence and IPFRR:  
+IPFRR:  
+* shorter the explicit path the better.  
+* don't steer the packet around the failure and back at the other end.  
+* reroute around the failure and release as soon as possible to a natural IP path.  
+* microloop avoidance - prevent packet drop due to inconsisten transient state between converging routers.  
