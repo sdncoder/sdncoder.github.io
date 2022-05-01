@@ -8,3 +8,5 @@ MPLS "classic":
 * RSVP-TE is "always on" to account for BW and a full-mesh of PE-to-PE tunnels is required.  
 * N^2 x K tunnels  N=nodes K=tunnels  
 * result is operational complexity with limited scale.  
+
+Link state convergence and IPFRR:  
