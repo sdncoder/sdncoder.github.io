@@ -14,3 +14,9 @@ IPFRR:
 * don't steer the packet around the failure and back at the other end.  
 * reroute around the failure and release as soon as possible to a natural IP path.  
 * microloop avoidance - prevent packet drop due to inconsisten transient state between converging routers.  
+
+Segment Routing:  
+* distribute labels in the routing protocol
+* centralized optimization with traffic-engineering based on prefix segments
+
+OpenFlow approach - centralize controller takes too much time to send updates and install in per router HW.  
