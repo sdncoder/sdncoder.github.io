@@ -1,7 +1,7 @@
-## BNE Ansible and Python 
-Playbooks and scripts for network automation, standardization, and operations.
- 
+## Team Ansible Methodology
+Why we use Ansible the way we do.  
 
+ 
 ## Table of contents
 * [General Info](#general-info)
 * [BNE Ansible Deployment](#bne-ansible-deployment)
