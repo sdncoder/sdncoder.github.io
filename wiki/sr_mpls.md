@@ -26,4 +26,4 @@ Hybrid centralized/distributed network approach
 * Network would maintain a level of distributed intelligence (IS-IS distribution of prefix and node segments).  
 * Controller or head-end PE would build paths based on a list of segments.
 * Combine distributed intelligence at the nodes (shortest-path, FRR, microloop avoidance) with head-path segment lists or PCE.  
-* 
+
