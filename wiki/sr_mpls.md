@@ -19,8 +19,11 @@ Segment Routing:
 * distribute labels in the routing protocol
 * centralized optimization with traffic-engineering based on prefix segments
 
-OpenFlow approach - centralize controller takes too much time to send updates and install in per router HW.  
+OpenFlow approach
+* Centralize controller takes too much time to send updates and install in per router HW.  
 
-Hybrid centralized/distributed network  
+Hybrid centralized/distributed network approach
 * Network would maintain a level of distributed intelligence (IS-IS distribution of prefix and node segments).  
-* Controller or head-end PE would build paths based on a list of segments.  
+* Controller or head-end PE would build paths based on a list of segments.
+* Combine distributed intelligence at the nodes (shortest-path, FRR, microloop avoidance) with head-path segment lists or PCE.  
+* 
