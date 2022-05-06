@@ -23,9 +23,9 @@ OpenFlow approach
 * Centralize controller takes too much time to send updates and install in per router HW.  
 
 Hybrid centralized/distributed network approach
-* Network would maintain a level of distributed intelligence (IS-IS distribution of prefix and node segments).  
-* Controller or head-end PE would build paths based on a list of segments.
-* Combine distributed intelligence at the nodes (shortest-path, FRR, microloop avoidance) with head-path segment lists or PCE.  
+* network would maintain a level of distributed intelligence (IS-IS distribution of prefix and node segments).  
+* controller or head-end PE would build paths based on a list of segments.
+* combine distributed intelligence at the nodes (shortest-path, FRR, microloop avoidance) with head-path segment lists or PCE.  
 
 TI-LFA:  
 * point of local repair pre-computes the post-convergence path to a destination.  
