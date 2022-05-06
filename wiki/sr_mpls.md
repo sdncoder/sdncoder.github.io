@@ -27,3 +27,7 @@ Hybrid centralized/distributed network approach
 * Controller or head-end PE would build paths based on a list of segments.
 * Combine distributed intelligence at the nodes (shortest-path, FRR, microloop avoidance) with head-path segment lists or PCE.  
 
+TI-LFA:  
+* point of local repair pre-computes the post-convergence path to a destination.  
+* 
+
