@@ -35,5 +35,10 @@ with SR you avoid parameters, options and tuning  == TI-LFA, microloop avoidance
 good network design is based on a broad overview of complexity, good knowledge of the cost of that complexity, and wise choices of the trade-offs.
 
 ### Segment Routing  
+* source routing paradigm.  
+* head-end node chooses path and steers a packet by inserting an ordered list of segments in the packet header.  
+* nodes on path do not maintain state information.  
+* a segment is an instruction.  
+*   
 
 
