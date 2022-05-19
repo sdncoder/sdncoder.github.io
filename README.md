@@ -6,6 +6,7 @@ Programming and open source tools to deploy network infrastructure(s) at scale.
 modeling a network with diverse data planes and link coloring to mitigate SRLG.  
 
 
+[sr-te-srlg](sr-te-networkx/sr-te-srlg1.png)
 
 
 
