@@ -1,10 +1,17 @@
-## network modeling, infrastructure as code, and deployment testing
+## network modeling and infrastructure as code
 Programming and open source tools to deploy network infrastructure(s) at scale.
 
-**Benefits:**   
-* Allow engineers to focus on the design and configuration by providing low-level funcationaly.  
-* Provide team-based configuration management with revision control and review/approval capabilites.  
-* Manage pre-production testing and build state analysis.
+
+#### network modeling with Python NetworkX
+modeling a network with diverse data planes and link coloring to mitigate SRLG.  
+
+
+
+
+
+
+
+
 
 ### The framework tools:  
 * [Automate configuration deployment with Ansible](#Automate-configuration-deployment-with-ansible)
