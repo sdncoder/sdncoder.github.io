@@ -1,5 +1,5 @@
-## A network deployment framework
-Tools and engineering process to deploy network infrastructure(s) at scale.
+## network modeling, infrastructure as code, and deployment testing
+Programming and open source tools to deploy network infrastructure(s) at scale.
 
 **Benefits:**   
 * Allow engineers to focus on the design and configuration by providing low-level funcationaly.  
