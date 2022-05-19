@@ -20,18 +20,8 @@ modeling a network with diverse data planes and link coloring to mitigate SRLG.
 
 
 ### Automate configuration deployment with Ansible
-Ansible is the best (my opinion) open source multi-vendor tool for network device configuration.
-* _SSH front-end_ - execute playbooks using vendor libraries via SSH.
-* _Well known command structure_ - YAML files are built using known network device CLI structure.
-* 
-
-
-
 ### Parsing deployment state
-
-
 ### QA with Robot Framework
-
 
 ### Engineering Process  
 The process is the product -
