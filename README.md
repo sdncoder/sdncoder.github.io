@@ -24,9 +24,6 @@ modeling a network with diverse data planes and link coloring to mitigate SRLG.
 ### Parsing deployment state
 ### QA with Robot Framework
 
-### Engineering Process  
-The process is the product -
-
 
 
 
