@@ -39,6 +39,3 @@ good network design is based on a broad overview of complexity, good knowledge o
 * head-end node chooses path and steers a packet by inserting an ordered list of segments in the packet header.  
 * nodes on path do not maintain state information.  
 * a segment is an instruction that a node executes on an imcomming packet.  
-*   
-
-
