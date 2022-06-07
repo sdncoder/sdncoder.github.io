@@ -1,8 +1,14 @@
-IPFM - IP fabric for media  
+### IPFM - IP fabric for media  
 
 Spine and leaf CLOS architecture has proven to be flexible and scalable.  
 No matter where the receiver is connected, the path always involves a single hop through the spine; providing deterministic latency.
 L2 network can be simple to build and need less planning for scale; it has a very large failure domain.  
 In a L2 netwokr, traffic is always flodded to the multicast router or querier.  L2 multicast networks contain the fault domain and forward traffic only when there are active receivers.  
+
+#### L3 protocols  
+*  PIM - enables routing multicast between networks  
+*  IGMP - protocol where the receiver (destination) signals the intent to join a source or leave a source  
+*  
+
 
 https://www.cisco.com/c/en/us/products/collateral/switches/nexus-9000-series-switches/white-paper-c11-738605.html
