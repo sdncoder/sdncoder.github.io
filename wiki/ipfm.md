@@ -8,7 +8,6 @@ In a L2 netwokr, traffic is always flodded to the multicast router or querier.  
 #### L3 protocols  
 *  PIM - enables routing multicast between networks  
 *  IGMP - protocol where the receiver (destination) signals the intent to join a source or leave a source  
-*  
 
 
 https://www.cisco.com/c/en/us/products/collateral/switches/nexus-9000-series-switches/white-paper-c11-738605.html
