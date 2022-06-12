@@ -18,8 +18,9 @@ AES 67 (Audio Engineering Society) - audio over IP.
 
 Broadcast controller - communicates directly with the IP endpoint or gateway to 'trigger' IGMP join and leave the network.   Network delivers new flow to the destination.  *this is destination timed switching*  
 
-#### L# Spine and Leaf Design  
-L3 COS architecture  
+#### Non-Blocking Mulitcast  
+* When multiple paths exist between source and destination in an IP network.  For every request for a new flow, PIM choses one of the available paths for the flow path using a hash.  
+
 
 
 
