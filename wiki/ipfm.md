@@ -18,10 +18,13 @@ AES 67 (Audio Engineering Society) - audio over IP.
 
 Broadcast controller - communicates directly with the IP endpoint or gateway to 'trigger' IGMP join and leave the network.   Network delivers new flow to the destination.  *this is destination timed switching*  
 
-#### Non-Blocking Mulitcast  
+#### Non-Blocking Multicast  (Bandwidth Aware PIM)  
 * When multiple paths exist between source and destination in an IP network.  For every request for a new flow, PIM choses one of the available paths for the flow path using a hash.  
 * Hash does not consider BW.  No guarentee of equal distribution of BW across links.  
 * PIM sets up flow path.  
+* PIM is very efficient but lacks the ability to use BW when setting up a flow path.  
+* Cisco NBM on NX-OS to make PIM intelligent.  
+* NBN brings BW awareness to PIM.  
 
 
 
