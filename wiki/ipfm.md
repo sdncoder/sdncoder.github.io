@@ -13,7 +13,7 @@ AES 67 (Audio Engineering Society) - audio over IP.
 *  PIM - enables routing multicast between networks  
 *  IGMP - protocol where the receiver (destination) signals the intent to join a source or leave a source  
 
-Broadcast controller - communicates directly with the IP endpoint or gateway to 'trigger' IGMP join and leave the network.   Network delivers new flow to the destination.  * this is destination timed switching *  
+Broadcast controller - communicates directly with the IP endpoint or gateway to 'trigger' IGMP join and leave the network.   Network delivers new flow to the destination.  *this is destination timed switching*  
 
 
 
