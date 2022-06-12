@@ -20,6 +20,8 @@ Broadcast controller - communicates directly with the IP endpoint or gateway to 
 
 #### Non-Blocking Mulitcast  
 * When multiple paths exist between source and destination in an IP network.  For every request for a new flow, PIM choses one of the available paths for the flow path using a hash.  
+* Hash does not consider BW.  No guarentee of equal distribution of BW across links.  
+* PIM sets up flow path.  
 
 
 
