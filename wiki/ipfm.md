@@ -34,7 +34,6 @@ Broadcast controller - communicates directly with the IP endpoint or gateway to 
 
 #### Desiging and non-blocking spine and leaf CLOS fabric  
 *  
-*  
 
 
 
