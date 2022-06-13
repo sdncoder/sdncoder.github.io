@@ -29,6 +29,11 @@ Broadcast controller - communicates directly with the IP endpoint or gateway to 
 
 #### NBN modes  
 *  Goal of NBN is to ensure that flows are load balanced and that all paths are utilized; and prevent oversubscription.  
+*  NBN Active mode - Nexus switches are responsible for BW management.  
+*  NBN Passive mode - use SDN.  
+
+#### Desiging and non-blocking spine and leaf CLOS fabric  
+*  
 *  
 
 
