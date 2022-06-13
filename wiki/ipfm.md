@@ -27,6 +27,10 @@ Broadcast controller - communicates directly with the IP endpoint or gateway to 
 * NBN brings BW awareness to PIM.  
 * NBN and PIM work together to prevent oversubscription.  
 
+#### NBN modes  
+*  Goal of NBN is to ensure that flows are load balanced and that all paths are utilized; and prevent oversubscription.  
+*  
+
 
 
 
