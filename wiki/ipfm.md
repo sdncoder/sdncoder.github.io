@@ -33,7 +33,7 @@ Broadcast controller - communicates directly with the IP endpoint or gateway to 
 *  NBN Passive mode - use SDN.  
 
 #### Desiging and non-blocking spine and leaf CLOS fabric  
-In an ideal senario the sender leaf (first hop router) sends one copy of the flow to one spine switch. The spine creates N copies, one for each receiver leaf switch with requesting receivers for that flow.   The reciver leaf (last-hop router)
+In an ideal senario the sender leaf (first hop router) sends one copy of the flow to one spine switch. The spine creates N copies, one for each receiver leaf switch with requesting receivers for that flow.   The reciver leaf (last-hop router) creates on N copy per local receiver connected on the leaf.  
 
 
 
