@@ -36,7 +36,7 @@ Broadcast controller - communicates directly with the IP endpoint or gateway to 
 In an ideal senario the sender leaf (first hop router) sends one copy of the flow to one spine switch. The spine creates N copies, one for each receiver leaf switch with requesting receivers for that flow.   The reciver leaf (last-hop router) creates on N copy per local receiver connected on the leaf.  
 * To ensure CLOS network remains non-blocking, a sender must have enough bandwidth to replicate all of its local senders to all spines.  
 * BW of all senders on a leaf must equal BW of the links going to each spine from that leaf.  
-* 
+* In broadcast most endpoints are unidirectional - placement of senders and receivers are important to ensure CLOS architecture is non-blocking.  
 
 
 
