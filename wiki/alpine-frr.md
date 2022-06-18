@@ -1,7 +1,7 @@
 ### Apline Linux FRR  
 
 setup:  
-Alpine network config is not set by default, DHCP setup of image:
+Alpine network config is not set by default, DHCP setup of image:  
 `vi /etc/network/interfaces`  
 
 ```
