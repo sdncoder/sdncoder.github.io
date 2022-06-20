@@ -44,6 +44,7 @@ In an ideal senario the sender leaf (first hop router) sends one copy of the flo
 * ECMP uses hashing to determine which path is used for a flow.  
 * ECMP is not bandwidth aware, could ressult in uplink saturation.  
 * NBM allows traffic to be load balancing wtih **bandwidth** as a parameter.  
+* NBM active mode finds and programs an optimized non-blocking path from source to destination.  
 * 
 
 
