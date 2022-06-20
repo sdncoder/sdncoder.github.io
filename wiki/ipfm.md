@@ -43,6 +43,7 @@ In an ideal senario the sender leaf (first hop router) sends one copy of the flo
 * When multiple paths exist, ECMP is used.  
 * ECMP uses hashing to determine which path is used for a flow.  
 * ECMP is not bandwidth aware, could ressult in uplink saturation.  
+* NBM allows traffic to be load balancing wtih **bandwidth** as a parameter.  
 * 
 
 
