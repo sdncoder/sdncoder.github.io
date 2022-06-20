@@ -38,7 +38,12 @@ In an ideal senario the sender leaf (first hop router) sends one copy of the flo
 * BW of all senders on a leaf must equal BW of the links going to each spine from that leaf.  
 * In broadcast most endpoints are unidirectional - placement of senders and receivers are important to ensure CLOS architecture is non-blocking.  
 
-
+#### Load balancing  
+* PIM enables multicast routing across subnets/networks.  
+* When multiple paths exist, ECMP is used.  
+* ECMP uses hashing to determine which path is used for a flow.  
+* ECMP is not bandwidth aware, could ressult in uplink saturation.  
+* 
 
 
 #### Relevant links:  
