@@ -38,7 +38,7 @@ In an ideal senario the sender leaf (first hop router) sends one copy of the flo
 * BW of all senders on a leaf must equal BW of the links going to each spine from that leaf.  
 * In broadcast most endpoints are unidirectional - placement of senders and receivers are important to ensure CLOS architecture is non-blocking.  
 
-#### Unicast and Multicast on same IP fabric  
+
 
 
 #### Relevant links:  
