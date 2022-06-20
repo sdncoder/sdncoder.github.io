@@ -28,9 +28,9 @@ Broadcast controller - communicates directly with the IP endpoint or gateway to 
 * NBM and PIM work together to prevent oversubscription.  
 
 #### NBN modes  
-*  Goal of NBN is to ensure that flows are load balanced and that all paths are utilized; and prevent oversubscription.  
+*  Goal of NBM is to ensure that flows are load balanced and that all paths are utilized; and prevent oversubscription.  
 *  NBM Active mode - Nexus switches are responsible for BW management.  
-*  NBN Passive mode - use SDN.  
+*  NBM Passive mode - use SDN.  
 
 #### Desiging a non-blocking spine and leaf CLOS fabric  
 In an ideal senario the sender leaf (first hop router) sends one copy of the flow to one spine switch. The spine creates N copies, one for each receiver leaf switch with requesting receivers for that flow.   The reciver leaf (last-hop router) creates on N copy per local receiver connected on the leaf.  
