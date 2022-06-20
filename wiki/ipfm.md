@@ -45,8 +45,13 @@ In an ideal senario the sender leaf (first hop router) sends one copy of the flo
 * ECMP is not bandwidth aware, could ressult in uplink saturation.  
 * NBM allows traffic to be load balancing wtih **bandwidth** as a parameter.  
 * NBM active mode finds and programs an optimized non-blocking path from source to destination.  
-* 
 
+
+#### Multi-Site with PIM Border  
+* two independent IP fabrics each with their own controllers.  
+* exernal PIM router.  
+* Uses border-leaf to interconnect with external site.  
+* Sites work independently.  
 
 #### Relevant links:  
 https://www.cisco.com/c/en/us/products/collateral/switches/nexus-9000-series-switches/white-paper-c11-738605.html
