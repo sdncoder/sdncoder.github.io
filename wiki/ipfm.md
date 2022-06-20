@@ -24,7 +24,7 @@ Broadcast controller - communicates directly with the IP endpoint or gateway to 
 * PIM sets up flow path.  
 * PIM is very efficient but lacks the ability to use BW when setting up a flow path.  
 * Cisco NBM on NX-OS to make PIM intelligent.  
-* NBN brings BW awareness to PIM.  
+* NBM brings BW awareness to PIM.  
 * NBN and PIM work together to prevent oversubscription.  
 
 #### NBN modes  
