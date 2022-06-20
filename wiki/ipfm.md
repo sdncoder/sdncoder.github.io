@@ -25,11 +25,11 @@ Broadcast controller - communicates directly with the IP endpoint or gateway to 
 * PIM is very efficient but lacks the ability to use BW when setting up a flow path.  
 * Cisco NBM on NX-OS to make PIM intelligent.  
 * NBM brings BW awareness to PIM.  
-* NBN and PIM work together to prevent oversubscription.  
+* NBM and PIM work together to prevent oversubscription.  
 
 #### NBN modes  
 *  Goal of NBN is to ensure that flows are load balanced and that all paths are utilized; and prevent oversubscription.  
-*  NBN Active mode - Nexus switches are responsible for BW management.  
+*  NBM Active mode - Nexus switches are responsible for BW management.  
 *  NBN Passive mode - use SDN.  
 
 #### Desiging a non-blocking spine and leaf CLOS fabric  
