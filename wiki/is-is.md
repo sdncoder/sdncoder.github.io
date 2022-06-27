@@ -6,5 +6,9 @@ IS-IS
 *  uses Dijkstra.  
 *  advantage is link state gives full topology picture;  can have scaling problems as the more routers the larger updates.  
 
+CLNS
+*  connectionless network service.  
+*  network layer datagram service that requires no circuit establishment.  
+
 Integrated IS-IS  
 
