@@ -11,4 +11,7 @@ CLNS
 *  network layer datagram service that requires no circuit establishment.  
 
 Integrated IS-IS  
+*  IS-IS was originally designed for use as a dynamic routing protocol for ISO CLNP.  
+*  Aapated to carry IP prefixes in addition to CLNP.  
+*  
 
