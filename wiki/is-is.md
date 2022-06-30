@@ -1,4 +1,4 @@
-### Intermediate System - Intermediate System (IS-IS)  
+#### Intermediate System - Intermediate System (IS-IS)  
 
 IS-IS  
 *  an IS-IS network is a single autonomous system (a routing domain).  
@@ -13,5 +13,4 @@ CLNS
 Integrated IS-IS  
 *  IS-IS was originally designed for use as a dynamic routing protocol for ISO CLNP.  
 *  Aapated to carry IP prefixes in addition to CLNP.  
-*  
 
