@@ -2,12 +2,12 @@
 
 IS-IS  
 *  An IS-IS network is a single autonomous system (a routing domain).  
-*  link state - topology information is flooded throughout the AS, all routers get complete picture of the topology.  
-*  uses Dijkstra.  
-*  advantage is link state gives full topology picture;  can have scaling problems as the more routers the larger updates.  
+*  Link state - topology information is flooded throughout the AS, all routers get complete picture of the topology.  
+*  Uses Dijkstra.  
+*  Advantage is link state gives full topology picture;  can have scaling problems as the more routers the larger updates.  
 
 CLNS
-*  connectionless network service.  
+*  Connectionless network service.  
 *  network layer datagram service that requires no circuit establishment.  
 
 Integrated IS-IS  
