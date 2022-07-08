@@ -8,7 +8,7 @@ IS-IS
 
 CLNS
 *  Connectionless network service.  
-*  network layer datagram service that requires no circuit establishment.  
+*  Network layer datagram service that requires no circuit establishment.  
 
 Integrated IS-IS  
 *  IS-IS was originally designed for use as a dynamic routing protocol for ISO CLNP.  
