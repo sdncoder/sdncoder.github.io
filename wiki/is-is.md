@@ -15,4 +15,5 @@ Integrated IS-IS
 *  Aapated to carry IP prefixes in addition to CLNP.  
 
 IS-IS Network Types  
-*  
+*  Broadcast  
+*  * 
