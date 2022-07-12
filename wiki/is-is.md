@@ -13,4 +13,6 @@ CLNS
 Integrated IS-IS  
 *  IS-IS was originally designed for use as a dynamic routing protocol for ISO CLNP.  
 *  Aapated to carry IP prefixes in addition to CLNP.  
+
+IS-IS Network Types  
 *  
