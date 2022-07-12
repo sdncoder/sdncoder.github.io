@@ -16,5 +16,8 @@ Integrated IS-IS
 
 IS-IS Network Types  
 *  Broadcast  
-> Ethernet multi-access.  
-> DIS - OSPF DR but no backup.  
+> * Ethernet multi-access.  
+> * DIS - OSPF DR but no backup.  
+> * preemptive.  
+> * CNSP conplete update.  
+>   
