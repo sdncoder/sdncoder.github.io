@@ -20,4 +20,5 @@ IS-IS Network Types
 > * DIS - OSPF DR but no backup.  
 > * preemptive.  
 > * CNSP conplete update.  
->   
+
+* Point-to-Point  
