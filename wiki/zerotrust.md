@@ -27,4 +27,3 @@
 * Microsegmentation - isolation insite the VRF.  Isolate workloads and secure them individually to limit access.  
 * Isolate vulnerable technology.
 * ZTNA is cloud-based solution that only gives user access to applications for which they are authorized - application based.  
-* 
