@@ -2,7 +2,7 @@ Zero trust means no one should be automatically trusted, once verified only limi
 ZTA focuses on who and what is accessing the network.  
 ZTNA is about application access.  
 
-### Zero Trust Network Intrastructure  
+#### Zero Trust Network Access    
 *  user to application segmentation.  
 *  The zero-trust model moves security away from implied trust that is based on network location. 
 *  Focuses on evaluating trust on a per-transaction basis.  
