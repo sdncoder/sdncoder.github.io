@@ -1,9 +1,9 @@
 ### Zero Trust  
 **core principals** - verify explicitly, use lease privlege access, assume breach.  
 
-Zero trust means no one should be automatically trusted, once verified only limited access should be given; and re-verify of the access should be done.  
-ZTA focuses on who and what is accessing the network.  
-ZTNA is about application access.  
+> Zero trust means no one should be automatically trusted, once verified only limited access should be given; and re-verify of the access should be done.  
+> ZTA focuses on who and what is accessing the network.  
+> ZTNA is about application access.  
 
 #### Zero Trust Network Access    
 *  user to application segmentation.  
