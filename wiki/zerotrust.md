@@ -7,4 +7,6 @@
 #### Zero Trust Access  
 *  ZTA is about knowing and controlling who and what is on your network.  
 *  Role-based access.  
-*  
+*  ZTA covers user endpoints where management control and visibility is required.  
+*  Headless devices - network access control (NAC) solutions can be used to discover and control access.  
+*  NAC policies to implement the zero trust principles of least access.  
