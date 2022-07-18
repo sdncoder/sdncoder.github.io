@@ -5,3 +5,6 @@
 *  With zero trust, network location or IP address no longer conveys an implication of trust.  
 
 #### Zero Trust Access  
+*  ZTA is about knowing and controlling who and what is on your network.  
+*  Role-based access.  
+*  
