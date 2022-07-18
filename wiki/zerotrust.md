@@ -17,6 +17,6 @@ ZTNA is about application access.
 
 #### Legacy perimeter security  
 *  traditional "fence" of safety approach.  
-*  Perimiter 
+*  Perimiter security assumes a user or connection is trustworthy until a breach is flagged.  
 *  MFA have strengthened the gateway, but does not mitigate issues once exploit is inside zone.  
 *  
