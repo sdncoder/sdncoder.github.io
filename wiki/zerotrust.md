@@ -16,3 +16,7 @@ ZTNA is about application access.
 *  NAC policies to implement the zero trust principles of least access.  
 
 #### Legacy perimeter security  
+*  traditional "fence" of safety approach.  
+*  Perimiter 
+*  MFA have strengthened the gateway, but does not mitigate issues once exploit is inside zone.  
+*  
