@@ -1,3 +1,6 @@
+Zero trust means no one should be automatically trusted, once verified only limited access should be given.  
+ZTA focuses on who and what is accessing the network.  
+
 ### Zero Trust Network Intrastructure  
 *  user to application segmentation.  
 *  The zero-trust model moves security away from implied trust that is based on network location. 
