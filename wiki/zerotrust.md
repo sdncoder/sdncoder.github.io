@@ -19,4 +19,7 @@ ZTNA is about application access.
 *  traditional "fence" of safety approach.  
 *  Perimiter security assumes a user or connection is trustworthy until a breach is flagged.  
 *  MFA have strengthened the gateway, but does not mitigate issues once exploit is inside zone.  
-*  
+
+#### Tenets of ZT networks  
+* Microsegmentation - isolation insite the VRF.  Isolate workloads and secure them individually to limit access.  
+* Isolate vulnerable technology.  
