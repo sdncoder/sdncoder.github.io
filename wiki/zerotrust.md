@@ -31,4 +31,4 @@
 notes:  
 * ZT at the network boundry -- where can we create smaller trust boundries.  
 * purpose built network boundries.  
-* 
+*   
