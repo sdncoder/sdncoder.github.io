@@ -14,6 +14,8 @@ solution:
 *  what does final state look like  
 
 * one network and that network is the Internet  
+* Zero Trust is needed to make that happen  
+* all investments and work should be towards this goal  
 
 
 
