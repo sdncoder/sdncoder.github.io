@@ -5,6 +5,11 @@ current problem:
 * understand lateral movement 
 * IAM complexity  
 * lack of automation  
+* peremiter based security has limitiations in the hybrid infrastrucutre environmnent (on-prem, cloud native, dispersed workers)  
+
+what is future state:  
+* 
+
 
 solution:  
 *  crawl - flatten zones and combine networks 
