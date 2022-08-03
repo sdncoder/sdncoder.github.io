@@ -13,9 +13,22 @@ solution:
 *  path to zero trust  
 *  what does final state look like  
 
+#####  the network  
 * one network and that network is the Internet  
 * Zero Trust is needed to make that happen  
 * all investments and work should be towards this goal  
+* a solution that is reliant on the network is not zero trust  
+*   zero trust assumes a hostile network
+*     VPN tunnels for remote users; tunnels between the corporate enterprise and cloud services 
+*     policy that relies on IP subnet for access
+
+ZTNA - build a tunnel from the corp network to the cloud.  user interface overlay on top of the tunnel to control what resources a user can access.  user tunnels to resource.  
+*  ZTNA helps reduce visbility into application environments. 
+*  relies on tunnels, that is a bottleneck.  
+*  NETWORK RELIANT SOLUTION IS THE ANTITHESIS OF ZERO-TRUST.  ZT assumes the network is hostile
+*
+ZTAA - 
+
 
 
 
