@@ -12,6 +12,8 @@ solution:
 *  > what is recipie  - things you have to do with new deployment
 *  path to zero trust  
 *  what does final state look like  
-*  
+
+* one network and that network is the Internet  
+
 
 
