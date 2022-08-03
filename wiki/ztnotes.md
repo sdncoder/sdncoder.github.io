@@ -11,5 +11,7 @@ solution:
 *  greenfield zero trust - what do new deployments need to do to be certified  
 *  > what is recipie  - things you have to do with new deployment
 *  path to zero trust  
+*  what does final state look like  
+*  
 
 
