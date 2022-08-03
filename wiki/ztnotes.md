@@ -17,10 +17,11 @@ solution:
 * one network and that network is the Internet  
 * Zero Trust is needed to make that happen  
 * all investments and work should be towards this goal  
-* a solution that is reliant on the network is not zero trust  
+#####  
+* a solution that is soley reliant on the network is not zero trust  
 *   zero trust assumes a hostile network
 *     VPN tunnels for remote users; tunnels between the corporate enterprise and cloud services 
-*     policy that relies on IP subnet for access
+*     policy that relies on IP subnet based rules for access (location specific)  
 
 ZTNA - build a tunnel from the corp network to the cloud.  user interface overlay on top of the tunnel to control what resources a user can access.  user tunnels to resource.  
 *  ZTNA helps reduce visbility into application environments. 
