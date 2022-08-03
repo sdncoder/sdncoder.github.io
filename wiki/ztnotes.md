@@ -18,7 +18,7 @@ solution:
 * Zero Trust is needed to make that happen  
 * all investments and work should be towards this goal  
 #####  
-* a solution that is soley reliant on the network is not zero trust  
+* a solution that is solely reliant on the network is not zero trust  
 *   zero trust assumes a hostile network
 *     VPN tunnels for remote users; tunnels between the corporate enterprise and cloud services 
 *     policy that relies on IP subnet based rules for access (location specific)  
