@@ -5,3 +5,4 @@ method:
 * transform CDNG into linear space and convert to ARRI color and LogC.  
 * RAW is just RGB values coming off the senson with no "color science" applied.  
 * linear space is mathematically similar to RAW in that its just manipulating RGB values to take data and fold it to a curve that looks good in a set color space.  
+* CinemaDNG RAW and setup in Resolv with RAW tab to be linear in output with P3D60 (wide color gamut)
