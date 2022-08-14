@@ -8,3 +8,5 @@ method:
 * CinemaDNG RAW and setup in Resolv with RAW tab to be linear in output with P3D60 (wide color gamut) and Linear.  
 
 * ARRI LogC -  
+
+* if you use Log it is no longer RAW.  RAW files have linear signal by definition.  
