@@ -10,5 +10,7 @@ method:
 * ARRI LogC -  C is gor Cineon.  uses scene-based encoding.  signal level increased by a fixed amount with each increase of exposure, measured in stops.
 
 * if you use Log it is no longer RAW.  RAW files have linear signal by definition.  
+* RAW image is stored without any processing done by the camera.  
+* CinemaDNG has smaller file size that RAW.  
 
 
