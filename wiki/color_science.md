@@ -19,4 +19,8 @@ Long GOP and All-Intra
 * All-I - larger files, getter quality
 
 Long Group of Pictures:  
-
+* keyframe with full pictures - keyframe is the I frame.  
+* then group of P and B frames.  
+* P - motion compenstated information.  
+* B - predictive differences based on previous frames.  
+*   
