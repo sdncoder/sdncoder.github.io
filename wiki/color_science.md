@@ -14,4 +14,9 @@ method:
 * CinemaDNG has smaller file size that RAW.  
 
 
-Long GOP:  
+Long GOP and All-Intra
+* GOP - smaller files, lower quality
+* All-I - larger files, getter quality
+
+Long Group of Pictures:  
+
