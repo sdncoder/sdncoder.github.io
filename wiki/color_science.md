@@ -23,4 +23,4 @@ Long Group of Pictures:
 * then group of P and B frames.  
 * P - motion compenstated information.  
 * B - predictive differences based on previous frames.  
-*   
+
