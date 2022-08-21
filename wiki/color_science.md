@@ -12,3 +12,6 @@ method:
 * if you use Log it is no longer RAW.  RAW files have linear signal by definition.  
 * RAW image is stored without any processing done by the camera.  
 * CinemaDNG has smaller file size that RAW.  
+
+
+Long GOP:  
