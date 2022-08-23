@@ -1,6 +1,5 @@
 ## Team Ansible Methodology
 Why we use Ansible the way we do.  
-
  
 ## Table of contents
 * [General Info](#general-info)
