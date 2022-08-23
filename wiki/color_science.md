@@ -24,3 +24,6 @@ Long Group of Pictures:
 * P - motion compenstated information.  
 * B - predictive differences based on previous frames.  
 
+#### lrtemplate to cube file  
+transfer preset to LUT
+Export LUT  
