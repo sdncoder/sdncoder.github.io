@@ -3,26 +3,17 @@
 ssh key stuff:  
 ey generations notes
 ---------------------
-sudo ssh-keygen
-Generating public/private rsa key pair.
-The key's randomart image is:
-+---[RSA 3072]----+
-|    . . o..o.    |
-...
-|.  . ==o++       |
-|    o=XB.        |
-+----[SHA256]-----+
-
-==========================
+sudo ssh-keygen  
+Generating public/private rsa key pair.  
 
 
-> public key in vi:
----------------------   
-- vi id_rsa.pub
+> public key in vi:  
+---------------------     
+- vi id_rsa.pub  
 
 
-copy key ~ starts with ssh-rsa ...
-past as new key for the github repo
+copy key ~ starts with ssh-rsa ...  
+past as new key for the github repo  
 
 
 
