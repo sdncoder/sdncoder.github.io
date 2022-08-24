@@ -1,7 +1,7 @@
 ### git process  
 
 ssh key stuff:  
-ey generations notes
+key generations notes  
 ---------------------
 sudo ssh-keygen  
 Generating public/private rsa key pair.  
