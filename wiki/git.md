@@ -23,6 +23,7 @@ past as new key for the github repo
 use git to clone:  
 ----------------  
  sudo git clone https://github.com/<x>/<x>.git  
+ https clone will require token, ssh will not.  
 
 git push:  
 --------  
