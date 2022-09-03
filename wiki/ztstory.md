@@ -8,4 +8,7 @@
 
 death of vpn  
 * has become inefficient and insecure.  
+* use any device and cloud applications do not work with traditional VPN-relianct architecture.  
+* future network is one that is not bound by tradiional VPN-reliant architecture.  
+* VPN are gateways that allow employees to access internal resources from a remote location.  
 * 
