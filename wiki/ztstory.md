@@ -6,3 +6,6 @@
 * micro-segmentation builds perimeters around specific applicatoins and data.
 * build infrastructure to determine traffic-flows between every workload - groom systems into micro zones to decrease their attack surface.  
 
+death of vpn  
+* has become inefficient and insecure.  
+* 
