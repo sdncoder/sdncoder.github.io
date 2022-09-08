@@ -21,5 +21,8 @@ https://threatpost.com/death-enterprise-vpn/145907/
 
 #### better solution  
 * zero-trust architecture provides an alternative model that prevents "trusted" users from gaining accessive access to a network, simply because there are no trusted users on the network to begin with.  
-* 
+* SDP - software-defined perimeter  - conceal infrastructure connected to the internet to prevent visibility.  
+| way to hide internet-connected infrastructure so external parties cannot see requardless of on-prem or cloud.  
+* micro-segmentation 
+https://www.cloudflare.com/learning/access-management/software-defined-perimeter/
 
