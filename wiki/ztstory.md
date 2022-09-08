@@ -17,5 +17,6 @@
 https://threatpost.com/death-enterprise-vpn/145907/  
 
 * user connecting via VPN is inherently granted a level of access that's almost always in excess of the minimum required.  
+* with legacy VPN even a well-designed and segmented network would leave a wide range of network resources visible to parties that should not need to see those resources.  
 * 
 
