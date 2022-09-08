@@ -16,3 +16,6 @@
 *  the wider the perimeter, the larger the risk.  
 https://threatpost.com/death-enterprise-vpn/145907/  
 
+* user connecting via VPN is inherently granted a level of access that's almost always in excess of the minimum required.  
+* 
+
