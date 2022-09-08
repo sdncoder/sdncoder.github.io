@@ -36,3 +36,6 @@ Username for 'https://github.com': <x>
 Password for 'https://<x>@github.com': <token>  
 
 ssh keys is better method.  
+ 
+deploy keys to give access to a single repo.  
+ 
