@@ -12,7 +12,6 @@
 * line between internal and external is gone.  
 * rapid migration of applications to the cloud;  no longer shielded by a secure network perimeter with clear demarcation points.  
 
-
 *  the wider the perimeter, the larger the risk.  
 https://threatpost.com/death-enterprise-vpn/145907/  
 
