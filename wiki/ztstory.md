@@ -27,6 +27,6 @@ https://threatpost.com/death-enterprise-vpn/145907/
 https://www.cloudflare.com/learning/access-management/software-defined-perimeter/  
 
 #### summary  
-zero trust is a security model  
+zero trust is a security model, user access is granted according to the principle of "least privledge", use microsegmentation to build perimeter around application with API as only ingress.  
 
 
