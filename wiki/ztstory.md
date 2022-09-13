@@ -29,4 +29,7 @@ https://www.cloudflare.com/learning/access-management/software-defined-perimeter
 #### summary  
 zero trust is a security model, user access is granted according to the principle of "least privledge", use microsegmentation to build perimeter around application with API as only ingress.  
 
+The Cloud is no longer a technology of the future.  Cloud technology is the reality of today.  
+The hurdle is adjusting the current infrastructure to support Cloud operations.  
+
 
