@@ -26,6 +26,7 @@ https://threatpost.com/death-enterprise-vpn/145907/
 
 https://www.cloudflare.com/learning/access-management/software-defined-perimeter/  
 
-#### x  
+#### summary  
+zero trust is a security model  
 
 
