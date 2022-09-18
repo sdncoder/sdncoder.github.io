@@ -31,7 +31,7 @@ TI-LFA:
 * point of local repair pre-computes the post-convergence path to a destination.  
 * backup path is installed per destination prefix.  
 
-with SR you avoid parameters, options and tuning  == TI-LFA, microloop avoidance.
+With SR you avoid parameters, options and tuning  == TI-LFA, microloop avoidance.
 good network design is based on a broad overview of complexity, good knowledge of the cost of that complexity, and wise choices of the trade-offs.
 
 ### Segment Routing  
