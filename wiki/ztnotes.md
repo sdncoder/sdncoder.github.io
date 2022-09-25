@@ -46,6 +46,6 @@ ZTAA -
 Avoid the Tunnel to "trust no one"  
 - you dont need a tunnel for zero trust  
 - ZTNA tunnel - secure the user in the network with more tunnels...wrong approach  
-- 
+
 
 
