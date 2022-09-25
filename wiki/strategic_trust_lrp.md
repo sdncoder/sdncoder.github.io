@@ -1,1 +1,0 @@
-#### strategic trust LRP  
