@@ -6,8 +6,15 @@ Mermaid diagramming
 
 ```mermaid
    stateDiagram
-    [*] --> still
+    [*] --> branch
+    branch --> edit
+    edit --> review request
+    review --> merge
  ```
+
+
+
+
 
 ```mermaid
   graph TD;
