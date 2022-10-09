@@ -15,6 +15,7 @@ state diagram
 ```
 ```mermaid
    stateDiagram
+   direction LR
     [*] --> main
     main --> branch
     branch --> review
