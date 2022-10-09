@@ -8,9 +8,9 @@ Mermaid diagramming
    stateDiagram
     [*] --> main
     main --> branch
-    edit --> review
+    branch --> review
     review --> merge
-    commit --> [*]
+    merge --> main
  ```
 
 
