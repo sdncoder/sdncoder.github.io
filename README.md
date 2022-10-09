@@ -23,16 +23,16 @@ state diagram
     review --> merge
     merge --> main
  ```
-
-
-
-
-
-```mermaid
-  graph TD;
-      A-->B;
+ 
+ ```mermaid
+   stateDiagram
+   direction LR
+    [*] --> main
+    main --> branch
+    state branch {
+    direction LR
+    review --> merge
+    }
+    merge --> main
  ```
 
-```
-code
-```
