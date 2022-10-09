@@ -5,7 +5,7 @@ Mermaid diagramming
 `https://mermaid-js.github.io/mermaid/#/`  
 
 ```mermaid
-   state_Diagram
+   stateDiagram
     [*] --> still
  ```
 
