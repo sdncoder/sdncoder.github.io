@@ -24,6 +24,13 @@ state diagram
     merge --> main
  ```
  
+ ```
+  state branch {
+    direction LR
+    change --> review 
+    review --> merge
+    }
+ ```
  ```mermaid
    stateDiagram
    direction LR
