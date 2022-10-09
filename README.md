@@ -31,7 +31,7 @@ state diagram
     main --> branch
     state branch {
     direction LR
-    review --> merge
+    change --> review --> merge
     }
     merge --> main
  ```
