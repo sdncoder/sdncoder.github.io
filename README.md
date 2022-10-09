@@ -1,6 +1,10 @@
 ## on building and automation framework for network engineering teams  
 
-
+network teams need to understand Ansible and Terraform use cases and the fundamentls of configuring network devices with these tools:  
+1. they work and allow teams to speed up deployments with consistency of the configuration  
+2. allows the integration of the network "piece" of the deployment to be integrated in the larger infrastructure as code build  
+3. if network engineers don't learn these tools they will get their lunch eaten by DevOps...that's the meathook reality of it  
+4.
 
 
 Mermaid diagramming  
