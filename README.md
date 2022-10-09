@@ -6,10 +6,11 @@ Mermaid diagramming
 
 ```mermaid
    stateDiagram
-    [main] --> branch
+    [*] --> branch
     branch --> edit
     edit --> review
     review --> merge
+    commit --> [*]
  ```
 
 
