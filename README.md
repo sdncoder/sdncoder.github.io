@@ -7,6 +7,7 @@ Mermaid diagramming
 state diagram  
 ```
    stateDiagram
+    direction LR  # set direction
     [*] --> main
     main --> branch
     branch --> review
