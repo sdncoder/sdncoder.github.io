@@ -2,10 +2,11 @@
 
 
 Mermaid diagramming  
-`https://mermaid-js.github.io/mermaid/#/`
+`https://mermaid-js.github.io/mermaid/#/`  
+
 ```mermaid
-   graph TD;
-     A-->B;
+   state_Diagram
+    [*] --> still
  ```
 
 ```mermaid
