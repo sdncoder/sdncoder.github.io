@@ -5,7 +5,8 @@ _network teams need to understand Ansible and Terraform use cases and the fundam
 2. allows the integration of the network "piece" of the infrastructure as code into an end-to-end playbook  
 
 * [network engineering build process](#network-engineering-build-process)
-* [x](#x)
+* [mermaid diagramming](#mermaid-diagramming)  
 
 ### network engineering build process  
 
+### mermaid diagramming  
