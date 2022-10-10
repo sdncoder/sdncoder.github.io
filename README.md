@@ -11,4 +11,4 @@ _network teams need to understand Ansible and Terraform use cases and the fundam
 
 ### mermaid diagramming  
 
-mermaid repo: [my mermaid repo]https://github.com/sdncoder/diagrams
+mermaid repo: [my mermaid repo](https://github.com/sdncoder/diagrams)
