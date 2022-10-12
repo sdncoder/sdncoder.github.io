@@ -1,4 +1,4 @@
-## on building an automation framework for network engineering teams  
+## network automation engineering   
 
 _network teams need to understand Ansible and Terraform use cases and the fundamentls of configuring network devices using them:_   
 1. allows teams to speed up deployments with consistency of the configuration  
