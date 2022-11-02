@@ -1,14 +1,27 @@
-## on building a network automation framework  
+**On Network Automation**  
+ _a practial approach towards a network engineering CI/CD pipeline, scripting, and parsing_          
 
-_network teams need to understand Ansible and Terraform use cases and the fundamentls of configuring network devices using them:_   
-1. allows teams to speed up deployments with consistency of the configuration  
-2. allows the integration of the network "piece" of the infrastructure as code into an end-to-end playbook  
+**Tenets:**    
+* A CI/CD pipeline should be the only way to deploy network equipment to production.  
+* The CD of the pipeline in large-scale networks has limiations and risk that should be accounted for with a modified workflow.  
+* Vendor and commercial network tools lead to "death by subscription", open-source and scripting should be used to mitigate that.  
 
-* [network engineering build process](#network-engineering-build-process)
-* [mermaid diagramming](#mermaid-diagramming)  
+The **Network CI (integration)** uses the version control build of main-->branch-->review-->merge.  
+* Continuous Integration - automate the integration of configuration changes.  
 
-### network engineering build process  
+The **Network CD (delviery and deployment)**   
+* Continuous Delivery - automate the test.    
+* Continuous Deployment - automate production deployment.    
 
-### mermaid diagramming  
+**_Continuous Delivery has limiations in network engineering as a "test" production network is non-existent._**    
+**_Continuous Deployment has risk as their is no manual gate at a stage before push to the production network._**    
 
-[diagrams as code](https://github.com/sdncoder/diagrams)
+**The Repostiories:**
+ 
+* Ansible playbooks:  [playbooks](https://github.com/sdncoder/playbooks)  
+* Python examples:   [python](https://github.com/sdncoder/pyScripts)  
+* Robot Framework:  [robot scripts](https://github.com/sdncoder/robot)    
+* AWK, SED, Perl, TextFSM:  [text parsing](https://github.com/sdncoder/text-parsing)      
+* NetworkX modeling:  [MPLS SR](https://github.com/sdncoder/sr-te-networkx)  
+* Containerlab simulation:  [Containerlab](https://github.com/sdncoder/models) 
+* Diagams as code:  [mermaid](https://github.com/sdncoder/diagrams)      
