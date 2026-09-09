@@ -16,6 +16,8 @@ The **Network CD (delviery and deployment)**
 **_Continuous Delivery has limiations in network engineering as a "test" production network is non-existent._**    
 **_Continuous Deployment has risk as their is no manual gate at a stage before push to the production network._**    
 
+**[Quantum & AI Stocks →](stocks)**
+
 **The Repostiories:**
  
 * Ansible playbooks:  [playbooks](https://github.com/sdncoder/playbooks)  
