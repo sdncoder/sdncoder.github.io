@@ -5,7 +5,7 @@ title: Quantum & AI Stocks
 
 ## Quantum & AI Stocks
 
-Daily prices tracked at 3PM ET — BKSY, IONQ, QNT (Quantinuum), GDYN
+Daily prices tracked at 3PM ET — BKSY, IONQ, QNT (Quantinuum), GDYN, FN
 
 ![Quantum and AI Stocks](https://raw.githubusercontent.com/sdncoder/workflows/main/stock_chart.png?{{ "now" | date: "%s" }})
 
